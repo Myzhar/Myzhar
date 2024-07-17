@@ -5,7 +5,6 @@ This is my personal Github repository where you can find many past projects I wo
 You can follow my works on my social channels: 
 [Blog](https://www.myzhar.com) - 
 [Instagram](https://www.instagram.com/myzharbot) - 
-[Twitter](https://www.twitter.com/myzhar) - 
 [LinkedIn](https://www.linkedin.com/in/walterlucetti/) - 
 [Facebook](https://www.facebook.com/robothome)
 
