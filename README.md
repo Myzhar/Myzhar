@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-This is my personal Github repository where you can find many past projects I worked on and all the projects that I'm facing currently.
+Welcome to my personal GitHub! Here, you’ll find a collection of my past and ongoing projects.
 
-You can follow my works on my social channels: 
-[Blog](https://www.myzhar.com) - 
-[Instagram](https://www.instagram.com/myzharbot) - 
-[LinkedIn](https://www.linkedin.com/in/walterlucetti/) - 
-[Facebook](https://www.facebook.com/robothome)
+You can follow my work on my social channels:
+
+- [Personal website](https://myzhar.tech)
+- [Instagram](https://www.instagram.com/myzharbot)
+- [LinkedIn](https://www.linkedin.com/in/walterlucetti/)
+- [LinkTree](https://linktr.ee/myzhar)
 
 I'm proudly part of the :pizza: [Pizza Robotics](http://pizzarobotics.org/) :robot:  robotics enthusiast Italian group.
-
-![Myzhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=myzhar)
 
 <!--
 **Myzhar/Myzhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
