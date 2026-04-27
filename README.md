@@ -11,6 +11,8 @@ You can follow my work on my social channels:
 
 I'm proudly part of the :pizza: [Pizza Robotics](http://pizzarobotics.org/) :robot:  robotics enthusiast Italian group.
 
+<img src="https://algora.io/og/user/Myzhar" />
+
 <!--
 **Myzhar/Myzhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
